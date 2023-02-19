@@ -18,7 +18,7 @@
 
     <link rel="preload" href="{{site.logo | relative_url}}" as="image">
     <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="/assets/js/html5shiv.js"></script>
     <![endif]-->
     {% include head-custom.html %}
   </head>
@@ -27,7 +27,7 @@
       <div class="sidebar">
         <header>
           {% if site.logo %}
-            <img class="img-circle" src="{{site.logo | relative_url}}" alt="Logo">
+            <img class="img-circle" src="{{site.logo | relative_url}}" alt="Logo" width="185px">
           {% endif %}
 
           {% if site.blank_title %}
@@ -37,10 +37,16 @@
           {% endif %}
 
           {% if site.email %}
-            <p class="addr"><i class="fa-regular fa-envelope"></i>&nbsp;{{ site.email }}</p>
+            <p class="addr">
+              {%- for mail in site.email %}
+                <i class="fa-regular fa-envelope"></i>&nbsp;{{ mail }}<br>
+              {%- endfor %}
+            </p>
           {% endif %}
 
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          {% if site.description %}
+            <p>{{ site.description }}</p>
+          {% endif %}
 
           {% include sidebar.html %}
 

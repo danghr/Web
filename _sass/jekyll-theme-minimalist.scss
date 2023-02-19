@@ -1,11 +1,10 @@
-@import "fonts";
 @import "rouge-github";
 @import "colors";
 
 body {
   background-color: var(--clr-bg);
   padding:50px;
-  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 15px/1.5 "Helvetica Neue", "Helvetica", "Tahoma", "Arial", "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft Yahei", "WenQuanYi Micro Hei", sans-serif;
   color: var(--clr-text);
   font-weight:400;
 }
@@ -76,7 +75,7 @@ ul.link:last-child {
 }
 
 .wrapper {
-  width:860px;
+  width:920px;
   margin: 0 auto;
 }
 
@@ -88,7 +87,7 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family: "Monaco", "Bitstream Vera Sans Mono", "Lucida Console", "Terminal", "Consolas", "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace;
   color: var(--clr-code-text);
 }
 
@@ -139,7 +138,7 @@ kbd {
 }
 
 .sidebar {
-  width:185px;
+  width:245px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -192,7 +191,7 @@ hr {
 }
 
 footer, .sidebar-footer {
-  width:185px;
+  width:245px;
   float:left;
   bottom:30px;
   -webkit-font-smoothing:subpixel-antialiased;
