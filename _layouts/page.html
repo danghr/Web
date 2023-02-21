@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<p><a href="/">Back to home</a> &emsp; {% if page.back %} <a href="{{ page.back_url }}">Back to {{ page.back }}</a> {% endif %}</p>
+
+<h2>{{ page.title }}</h2>
+
+{{ content }}

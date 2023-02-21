@@ -1,4 +1,5 @@
-title: Haoran Dang <br>党浩然
+title: Haoran Dang<br>党浩然
+shown_title: Haoran Dang 党浩然
 logo: https://static.danghr.com/D-logo/No-text/D-logo-notext.svg
 email:
  - danghaoran22s &lt;AT&gt; ict.ac.cn
@@ -14,9 +15,12 @@ favicon: true
 # Alternatively, insert SVG icons by using
 # <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="none"> SVG HERE </g></svg>
 sidebar:
-  - name: "Blog 博客: blog.danghr.com <small>(Chinese only)</small>"
+  - name: "Blog 博客 (Chinese only)"
     icon: <i class="fa-brands fa-wordpress"></i>
     link: https://blog.danghr.com
+  - name: "Toolbox 小工具"
+    icon: <i class="fa-solid fa-toolbox"></i>
+    link: https://tools.danghr.com
   - name: "ORCID: 0000-0003-0750-5223"
     icon: <i class="fa-brands fa-orcid"></i>
     link: https://orcid.org/0000-0003-0750-5223
@@ -28,7 +32,7 @@ sidebar:
     link: https://github.com/danghr
   - name: Curriculum Vitae (PDF)
     icon: <i class="fa-solid fa-file-arrow-down"></i>
-    link: https://static.danghr.com/CV/en/Haoran%20Dang.pdf
+    link: https://static.danghr.com/CV/Haoran%20Dang.pdf
   - name: 简历（PDF）
     icon: <i class="fa-solid fa-file-arrow-down"></i>
-    link: https://static.danghr.com/CV/cn/%E5%85%9A%E6%B5%A9%E7%84%B6.pdf
+    link: https://static.danghr.com/CV/%E5%85%9A%E6%B5%A9%E7%84%B6.pdf

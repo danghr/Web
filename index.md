@@ -2,122 +2,49 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I'm currently an M.Eng. student in [High-throughput Computer Research Center](http://www.ict.cas.cn/jssgk/zzjg/kyxt/gtljsj/js/) of [ICT, CAS](http://www.ict.cas.cn), advised by [Dr. Dongrui Fan](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496609.html) and working closely with [Dr. Mingyu Yan](https://mingyuyan-ict.github.io/MingyuYan-ICT/) on high-throughput computing systems and graph computing.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-<!-- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
-
-### Large image
-
-<!-- ![Branching](https://guides.github.com/activities/hello-world/branching.png) -->
+I obtained my B.Eng. (Computer Science and Technology) degree in [SIST](https://sist.shanghaitech.edu.cn/sist_en/), [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/), where I worked in [Toast Lab](https://toast-lab.sist.shanghaitech.edu.cn) (advised by [Dr. Chundong Wang](https://toast-lab.sist.shanghaitech.edu.cn/people/)) on co-optimization of NoSQL database and file system. Prior to that I had some experience in [Attitude Research Lab](https://arlab.sem.shanghaitech.edu.cn/index_en.html) of [SEM](https://sem.shanghaitech.edu.cn/sem_en/), [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/).
 
 
-### Definition lists can be used with HTML syntax.
+## News
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+{%- include abstract.md -%}
+<br>
+[[More]](/news)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+## Eductaion
+
+| Time            | School                                                                                                                                      |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 09/2022-Present | Institute of Computing Technology, Chinese Academy of Sciences <small>(Also a student in University of Chinese Academy of Sciences)</small> |
+| 09/2018-06/2022 | ShanghaiTech University                                                                                                                     |
+
+
+## Publications
+
+- <u>H. Dang</u>, C. Ye, Y. Hu, and C. Wang, “**NobLSM: an LSM-tree with non-blocking writes for SSDs**,” in *Proceedings of the 59th ACM/IEEE Design Automation Conference*, 2022, pp. 403–408. DOI: [10.1145/3489517.3530470](https://doi.org/10.1145/3489517.3530470). <small>(Open Access)</small>
+<br>
+[[Full Publication List]](/publications)
+
+
+## Teaching Experience
+
+| Time               | Course                                           | Role | Location     |
+|--------------------|--------------------------------------------------|------|--------------|
+| Fall, AY 2021-2022 | Operating Systems <small>(undergraduate)</small> | TA   | ShanghaiTech |
+
+
+## Awards
+
+| Time    | Award                                                          | Awarded By   |
+|---------|----------------------------------------------------------------|--------------|
+| 06/2022 | SIST Outstanding Thesis <small>(for undergraduate FYP)</small> | ShanghaiTech |
+
+
+## Skills
+
+- **Programming Languages:** C, C++, Python
+- **Tools & Frameworks:** OpenMP, CUDA
+- **Languages:** Chinese (native), English (fluent)

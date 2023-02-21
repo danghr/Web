@@ -2,13 +2,15 @@
 layout: default
 ---
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
+<p><a href="/">Back to home</a> &emsp; {% if page.back %} <a href="{{ page.back_url }}">Back to {{ page.back }}</a> {% endif %}</p>
 
-<p class="view">by {{ page.author | default: site.author }}</p>
+<h2>{{ page.title }}</h2>
+<small>{{ page.date | date: "%-d/%B/%Y" }}</small>
 
-{{content}}
+<!-- <p class="view">by {{ page.author | default: site.author }}</p> -->
+
+{{ content }}
 
 {% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+  <small>Tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
