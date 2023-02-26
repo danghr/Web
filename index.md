@@ -18,7 +18,7 @@ I obtained my B.Eng. (Computer Science and Technology) degree in [SIST](https://
 
 | Time            | School                                                                                                                                      |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 09/2022-Present | Institute of Computing Technology, Chinese Academy of Sciences <small>(Also a student in University of Chinese Academy of Sciences)</small> |
+| 09/2022-Present | Institute of Computing Technology, Chinese Academy of Sciences <small>(Also a student of University of Chinese Academy of Sciences)</small> |
 | 09/2018-06/2022 | ShanghaiTech University                                                                                                                     |
 
 
