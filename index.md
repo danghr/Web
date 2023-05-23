@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I'm currently an M.Eng. student in [High-throughput Computer Research Center](http://www.ict.cas.cn/jssgk/zzjg/kyxt/gtljsj/js/) of [ICT, CAS](http://www.ict.cas.cn), working closely with [Prof. Mingyu Yan](https://mingyuyan-ict.github.io/MingyuYan-ICT/) on high-throughput computing theory, technology and systems.
+I'm currently an M.Eng. student in [High-throughput Computer Research Center](http://www.ict.cas.cn/jssgk/zzjg/kyxt/gtljsj/js/) of [ICT, CAS](http://www.ict.cas.cn), working closely with [Prof. Mingyu Yan](https://mingyuyan-ict.github.io/MingyuYan-ICT/) on high-throughput computing technology and systems.
 
-I obtained my B.Eng. (Computer Science and Technology) degree in [SIST](https://sist.shanghaitech.edu.cn/sist_en/), [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/), where I worked in [Toast Lab](https://toast-lab.sist.shanghaitech.edu.cn) with [Dr. Chundong Wang](https://toast-lab.sist.shanghaitech.edu.cn/people/) on co-optimization of NoSQL database and file system. Prior to that I had some experience in [Attitude Research Lab](https://arlab.sem.shanghaitech.edu.cn/index_en.html) of [SEM](https://sem.shanghaitech.edu.cn/sem_en/), [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/).
+I received my B.Eng. degree in Computer Science and Technology from [SIST](https://sist.shanghaitech.edu.cn/sist_en/), [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/), where I worked in [Toast Lab](https://toast-lab.sist.shanghaitech.edu.cn) with [Prof. Chundong Wang](https://toast-lab.sist.shanghaitech.edu.cn/people/) on co-optimization of NoSQL database and file system. Prior to that I had some experience in [Attitude Research Lab](https://arlab.sem.shanghaitech.edu.cn/index_en.html) of [SEM](https://sem.shanghaitech.edu.cn/sem_en/), [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/) abount ethics in information technology.
 
 
 ## News
