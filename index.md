@@ -18,8 +18,8 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 
 | Time            | School                                                                                                                                      |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 09/2022-Present | Institute of Computing Technology, Chinese Academy of Sciences <small>(Also a student of University of Chinese Academy of Sciences)</small> |
-| 09/2018-06/2022 | ShanghaiTech University                                                                                                                     |
+| 2022-09 - Present | Institute of Computing Technology, Chinese Academy of Sciences <small>(Also a student of University of Chinese Academy of Sciences)</small> |
+| 2018-09 - 2022-06 | ShanghaiTech University                                                                                                                     |
 
 
 ## Publications
@@ -40,7 +40,7 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 
 | Time    | Award                                                          | Awarded By   |
 |---------|----------------------------------------------------------------|--------------|
-| 06/2022 | SIST Outstanding Thesis <small>(for undergraduate FYP)</small> | ShanghaiTech |
+| 2022-06 | SIST Outstanding Thesis <small>(for undergraduate FYP)</small> | ShanghaiTech |
 
 
 ## Skills
