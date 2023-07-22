@@ -50,7 +50,7 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 - **Languages:** Chinese (native), English (fluent)
 
 
-## Misc
+## Miscellaneous
 
 ### Buy the book "信息科学技术伦理与道德" (*Ethics and Morality in Information Science and Technology*)!
 
@@ -60,4 +60,3 @@ Based on the course of the same name provided in ShanghaiTech, this book compreh
 Topics include ethical principles, AI decision, big data, privacy, identity, etc. [[Details]](/news/2023/06/EthicsBook.html)
 
 Buy it at [JD.com](https://item.jd.com/14015066.html)!
-
