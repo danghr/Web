@@ -2,7 +2,7 @@
 layout: post
 title: The book "信息科学技术伦理与道德" (Ethics and Morality in Information Science and Technology) is published!
 date: 2023-06-08
-tag: ShanghaiTech, ARLab
+tags: ShanghaiTech, ARLab
 ---
 
 ![](/file/2023/06/EthicsBook.png)<br><small>Picture from China Machine Press</small>

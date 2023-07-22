@@ -5,12 +5,12 @@ layout: default
 <p><a href="/">Back to home</a> &emsp; {% if page.back %} <a href="{{ page.back_url }}">Back to {{ page.back }}</a> {% endif %}</p>
 
 <h2>{{ page.title }}</h2>
-<small>{{ page.date | date: "%-d/%B/%Y" }}</small>
+<small>{{ page.date | date: "%Y-%m-%d" }}<br></small>
 
 <!-- <p class="view">by {{ page.author | default: site.author }}</p> -->
 
 {{ content }}
 
 {% if page.tags %}
-  <small>Tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+  <small><br>Tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
