@@ -48,3 +48,16 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 - **Programming Languages:** C, C++, Python
 - **Tools & Frameworks:** OpenMP, CUDA
 - **Languages:** Chinese (native), English (fluent)
+
+
+## Misc
+
+### Buy the book "信息科学技术伦理与道德" (*Ethics and Morality in Information Science and Technology*)!
+
+![](/file/2023/06/EthicsBook.png)<br><small>Picture from China Machine Press</small>
+
+Based on the course of the same name provided in ShanghaiTech, this book comprehensively discusses the potential ethical and social impact of recent technology advancement in information science. 
+Topics include ethical principles, AI decision, big data, privacy, identity, etc. [[Details]](/news/2023/06/EthicsBook.md)
+
+Buy it at [JD.com](https://item.jd.com/14015066.html)!
+
