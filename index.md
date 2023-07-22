@@ -57,7 +57,7 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 ![](/file/2023/06/EthicsBook.png)<br><small>Picture from China Machine Press</small>
 
 Based on the course of the same name provided in ShanghaiTech, this book comprehensively discusses the potential ethical and social impact of recent technology advancement in information science. 
-Topics include ethical principles, AI decision, big data, privacy, identity, etc. [[Details]](/news/2023/06/EthicsBook.md)
+Topics include ethical principles, AI decision, big data, privacy, identity, etc. [[Details]](/news/2023/06/EthicsBook.html)
 
 Buy it at [JD.com](https://item.jd.com/14015066.html)!
 
