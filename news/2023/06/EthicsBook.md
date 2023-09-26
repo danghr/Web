@@ -20,4 +20,4 @@ Meanwhile, the public will also benefit from the contents by appraising the new 
 
 The publish of this book is the last project I participated in [ARLab](https://arlab.sem.shanghaitech.edu.cn), [SEM](https://sem.shanghaitech.edu.cn), [ShanghaiTech](https://www.shanghaitech.edu.cn), where I was involved in discussing the topics, writing example chapters and filling the documents from the publishing house.
 
-The book is published by China Machine Press (机械工业出版社), and priced at RMB 53.00. You can buy it at [JD.com](https://item.jd.com/14015066.html), or from other bookstores and shopping platforms.
+<!-- The book is published by China Machine Press (机械工业出版社), and priced at RMB 53.00. You can buy it at [JD.com](https://item.jd.com/14015066.html), or from other bookstores and shopping platforms. -->
