@@ -24,7 +24,7 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 
 ## Publications
 
-- <u>H. Dang</u>, C. Ye, Y. Hu, and C. Wang, “**NobLSM: an LSM-tree with non-blocking writes for SSDs**,” in *Proceedings of the 59th ACM/IEEE Design Automation Conference*, 2022, pp. 403–408. DOI: [10.1145/3489517.3530470](https://doi.org/10.1145/3489517.3530470). <small>(CCF Rank A) (Open Access)</small>
+- <u>Haoran Dang</u>, Chongnan Ye, Yanpeng Hu, and Chundong Wang, “**NobLSM: an LSM-tree with non-blocking writes for SSDs**,” in *Proceedings of the 59th ACM/IEEE Design Automation Conference*, 2022, pp. 403–408. DOI: [10.1145/3489517.3530470](https://doi.org/10.1145/3489517.3530470). <small>(CCF Rank A) (Open Access)</small>
 <br>
 [[Full Publication List]](/publications)
 
