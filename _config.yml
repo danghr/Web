@@ -3,8 +3,8 @@ shown_title: Haoran Dang 党浩然
 url: https://www.danghr.com
 logo: https://static.danghr.com/D-logo/No-text/D-logo-notext.svg
 email:
+ - danghr &lt;AT&gt; outlook.com
  - danghaoran22s &lt;AT&gt; ict.ac.cn
- - danghr &lt;AT&gt; danghr.com
 color-scheme: auto
 plugins:
   - jekyll-seo-tag
