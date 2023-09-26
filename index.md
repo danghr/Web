@@ -47,7 +47,7 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 
 - **Programming Languages:** C, C++, Python
 - **Tools & Frameworks:** OpenMP, CUDA
-- **Languages:** Chinese (native), English (fluent)
+- **Languages:** Chinese (native), English
 
 
 <!-- ## Miscellaneous
