@@ -8,6 +8,7 @@ email:
 color-scheme: auto
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jemoji
 favicon: true
 
