@@ -16,10 +16,10 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 
 ## Eductaion
 
-| Time            | School                                                                                                                                      |
-|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 2022-09 - Present | Institute of Computing Technology, Chinese Academy of Sciences <small>(Also a student of University of Chinese Academy of Sciences)</small> |
-| 2018-09 - 2022-06 | ShanghaiTech University                                                                                                                     |
+| Time | School |
+|---|---|
+| 2022-09 - Present | Institute of Computing Technology, Chinese Academy of Sciences <br><small>(Also a student of University of Chinese Academy of Sciences)</small><br> <small>GPA: 3.81/4&emsp;<a href="https://www.danghr.com/mten">Transcript</a></small> |
+| 2018-09 - 2022-06 | ShanghaiTech University<br> <small>GPA: 3.50/4&emsp;Rank: 55/194 (28.4%)&emsp;<a href="https://www.danghr.com/ugten">Transcript</a></small> |
 
 
 ## Publications
@@ -46,7 +46,7 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 ## Skills
 
 - **Programming Languages:** C, C++, Python
-- **Tools & Frameworks:** OpenMP, CUDA
+- **Tools & Frameworks:** OpenMP, CUDA, PyTorch
 - **Languages:** Chinese (native), English
 
 
