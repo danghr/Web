@@ -14,49 +14,54 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 [[More]](/news)
 
 
-## Eductaion
+## About Me
+
+### Eductaion
 
 | Time | School |
 |---|---|
-| 2022-09 - Present | Institute of Computing Technology, Chinese Academy of Sciences <br><small>(Also a student of University of Chinese Academy of Sciences)</small><br> <small>GPA: 3.81/4&emsp;<a href="https://www.danghr.com/mten">Transcript</a></small> |
-| 2018-09 - 2022-06 | ShanghaiTech University<br> <small>GPA: 3.50/4&emsp;Rank: 55/194 (28.4%)&emsp;<a href="https://www.danghr.com/ugten">Transcript</a></small> |
+| 2022-09 - Present | Institute of Computing Technology, Chinese Academy of Sciences <br><small>(Also a student of University of Chinese Academy of Sciences)</small><br> <small>GPA: 3.81/4&emsp;<a href="https://www.danghr.com/mten">Transcript</a>&nbsp;<a href="https://www.danghr.com/mtzh">(中文)</a></small> |
+| 2018-09 - 2022-06 | ShanghaiTech University<br> <small>GPA: 3.50/4&emsp;Rank: 55/194 (28.4%)&emsp;<a href="https://www.danghr.com/ugten">Transcript</a>&nbsp;<a href="https://www.danghr.com/ugtzh">(中文)</a></small> |
 
 
-## Publications
+### Publications
 
-- <u>Haoran Dang</u>, Chongnan Ye, Yanpeng Hu, and Chundong Wang, “**NobLSM: an LSM-tree with Non-blocking Writes for SSDs**,” in *Proceedings of the 59th ACM/IEEE Design Automation Conference*, 2022, pp. 403–408. DOI: [10.1145/3489517.3530470](https://doi.org/10.1145/3489517.3530470). <small>(CCF Rank A) (Open Access)</small>
+{%- include publications_abstract.md -%}
 <br>
 [[Full Publication List]](/publications)
 
 
-## Teaching Experience
+### Teaching
 
 | Time               | Course                                           | Role | Location     |
 |--------------------|--------------------------------------------------|------|--------------|
 | Fall, AY 2021-2022 | Operating Systems <small>(undergraduate)</small> | TA   | ShanghaiTech |
 
 
-## Awards
+### Awards
 
 | Time    | Award                                                          | Awarded By   |
 |---------|----------------------------------------------------------------|--------------|
 | 2022-06 | SIST Outstanding Thesis <small>(for undergraduate FYP)</small> | ShanghaiTech |
 
 
-## Skills
+### Skills
 
 - **Programming Languages:** C, C++, Python
 - **Tools & Frameworks:** OpenMP, CUDA, PyTorch
-- **Languages:** Chinese (native), English
+
+### Language
+- Chinese (native)
+- English
 
 
-<!-- ## Miscellaneous
+## Miscellaneous
 
 ### Buy the book "信息科学技术伦理与道德" (*Ethics and Morality in Information Science and Technology*)!
 
-![](/file/2023/06/EthicsBook.png)<br><small>Picture from China Machine Press</small>
+![](/file/2023/12/ethics_book.jpg)<br><small>Picture from China Machine Press</small>
 
 Based on the course of the same name provided in ShanghaiTech, this book comprehensively discusses the potential ethical and social impact of recent technology advancement in information science. 
-Topics include ethical principles, AI decision, big data, privacy, identity, etc. [[Details]](/news/2023/06/EthicsBook.html)
+Topics include ethical principles, AI decision, big data, privacy, digital identity, etc. [[Details]](/news/2023/12/ethics_book.html)
 
-Buy it at [JD.com](https://item.jd.com/14015066.html)! -->
+You can buy it at [JD.com](https://item.jd.com/13961643.html), or from other bookstores and shopping platforms.
