@@ -20,8 +20,8 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 
 | Time | School |
 |---|---|
-| 2022-09 - Present | Institute of Computing Technology, Chinese Academy of Sciences <br><small>(Also a student of University of Chinese Academy of Sciences)</small><br> <small>GPA: 3.81/4&emsp;<a href="https://www.danghr.com/mten">Transcript</a>&nbsp;<a href="https://www.danghr.com/mtzh">(中文)</a></small> |
-| 2018-09 - 2022-06 | ShanghaiTech University<br> <small>GPA: 3.50/4&emsp;Rank: 55/194 (28.4%)&emsp;<a href="https://www.danghr.com/ugten">Transcript</a>&nbsp;<a href="https://www.danghr.com/ugtzh">(中文)</a></small> |
+| 2022-09 - Present | Institute of Computing Technology, Chinese Academy of Sciences <br><small>(Also a student of University of Chinese Academy of Sciences)</small><br> <small>GPA: 3.81/4&emsp;<a href="https://www.danghr.com/mten">Transcript</a>&nbsp;<a href="https://www.danghr.com/mtzh">成绩单</a></small> |
+| 2018-09 - 2022-06 | ShanghaiTech University<br> <small>GPA: 3.50/4&emsp;Rank: 55/194 (28.4%)&emsp;<a href="https://www.danghr.com/ugten">Transcript</a>&nbsp;<a href="https://www.danghr.com/ugtzh">成绩单</a></small> |
 
 
 ### Publications
