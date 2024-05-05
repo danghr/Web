@@ -42,7 +42,7 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 
 | Time    | Award                                                          | Awarded By   |
 |---------|----------------------------------------------------------------|--------------|
-| 2022-06 | SIST Outstanding Thesis <small>(for undergraduate FYP)</small> | ShanghaiTech |
+| 2022-06 | Outstanding Thesis <small>(for undergraduate FYP)</small> | SIST, ShanghaiTech |
 
 
 ### Skills
@@ -58,8 +58,6 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 ## Miscellaneous
 
 ### Buy the book "信息科学技术伦理与道德" (*Ethics and Morality in Information Science and Technology*)!
-
-![](/file/2023/12/ethics_book.jpg)<br><small>Picture from China Machine Press</small>
 
 Based on the course of the same name provided in ShanghaiTech, this book comprehensively discusses the potential ethical and social impact of recent technology advancement in information science. 
 Topics include ethical principles, AI decision, big data, privacy, digital identity, etc. [[Details]](/news/2023/12/ethics_book.html)

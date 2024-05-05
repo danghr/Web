@@ -2,6 +2,7 @@
 layout: page
 title: News
 ---
+- <small>2024-05-01</small> [One paper accepted by Euro-Par 2024](/news/2024/05/gdl-gnn.html)
 - <small>2023-12-01</small> [The book "信息科学技术伦理与道德" (*Ethics and Morality in Information Science and Technology*) is published!](/news/2023/12/ethics_book.html)
 - <small>2022-06-26</small> Graduated from ShanghaiTech!<br>
 ![](/file/2022/06/graduate.jpg)<br><small>Photo from SIST, ShanghaiTech</small>
