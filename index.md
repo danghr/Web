@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I'm currently an M.Eng. student in [High-throughput Computer Research Center](http://www.ict.cas.cn/jssgk/zzjg/kyxt/gtljsj/js/) of [ICT, CAS](http://www.ict.cas.cn), supervised by Prof. Dongrui Fan and working closely with [Prof. Mingyu Yan](https://mingyuyan-ict.github.io/MingyuYan-ICT/) on high-throughput graph computing systems.
+I'm currently an M.Eng. student in [High-throughput Computer Research Center](http://english.ict.cas.cn/rese/divi/cs/202302/t20230209_326889.html) of [ICT, CAS](http://english.ict.cas.cn), supervised by [Prof. Dongrui Fan](https://people.ucas.ac.cn/~fandongrui?language=en) and working closely with [Assoc. Prof. Mingyu Yan](https://mingyuyan-ict.github.io/MingyuYan-ICT/) on high-throughput graph computing systems.
 
-I received my B.Eng. degree in Computer Science and Technology from [SIST](https://sist.shanghaitech.edu.cn/sist_en/), [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/), where I worked in [Toast Lab](https://toast-lab.sist.shanghaitech.edu.cn) with [Prof. Chundong Wang](https://toast-lab.sist.shanghaitech.edu.cn/people/) on co-optimization of NoSQL database and file system. Prior to that I had some experience in [Attitude Research Lab](https://arlab.sem.shanghaitech.edu.cn/index_en.html) of [SEM](https://sem.shanghaitech.edu.cn/sem_en/), [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/) about ethics in information technology.
+I received my B.Eng. degree in Computer Science and Technology from [SIST](https://sist.shanghaitech.edu.cn/sist_en/), [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/), where I worked in [Toast Lab](https://toast-lab.sist.shanghaitech.edu.cn) with [Assist. Prof. Chundong Wang](https://toast-lab.sist.shanghaitech.edu.cn/people/) on co-optimization of NoSQL database and file system. Prior to that I had some experience in [Attitude Research Lab](https://arlab.sem.shanghaitech.edu.cn/index_en.html) of [SEM](https://sem.shanghaitech.edu.cn/sem_en/), [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/) about ethics in information technology.
 
 
 ## News
@@ -20,8 +20,8 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 
 | Time | School |
 |---|---|
-| 2022-09 - Present | Institute of Computing Technology, Chinese Academy of Sciences <br><small>(Also a student of University of Chinese Academy of Sciences)</small><br> <small>GPA: 3.81/4&emsp;<a href="https://www.danghr.com/mten">Transcript</a>&nbsp;<a href="https://www.danghr.com/mtzh">成绩单</a></small> |
-| 2018-09 - 2022-06 | ShanghaiTech University<br> <small>GPA: 3.50/4&emsp;Rank: 55/194 (28.4%)&emsp;<a href="https://www.danghr.com/ugten">Transcript</a>&nbsp;<a href="https://www.danghr.com/ugtzh">成绩单</a></small> |
+| 2022-09 - Present | Institute of Computing Technology, Chinese Academy of Sciences <br><small>(Also a student of University of Chinese Academy of Sciences)</small><br> <small>Supervisor: Prof. Dongrui Fan&emsp;GPA: 3.81/4</small> |
+| 2018-09 - 2022-06 | ShanghaiTech University<br> <small>GPA: 3.50/4&emsp;Rank: 55/194 (28.4%)</small> |
 
 
 ### Publications
@@ -38,21 +38,20 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 | Fall, AY 2021-2022 | Operating Systems <small>(undergraduate)</small> | TA   | ShanghaiTech |
 
 
+<!-- 
 ### Awards
 
 | Time    | Award                                                          | Awarded By   |
 |---------|----------------------------------------------------------------|--------------|
 | 2022-06 | Outstanding Thesis <small>(for undergraduate FYP)</small> | SIST, ShanghaiTech |
+ -->
 
 
 ### Skills
 
-- **Programming Languages:** C, C++, Python
-- **Tools & Frameworks:** OpenMP, CUDA, PyTorch
-
-### Language
-- Chinese (native)
-- English
+- **Programming Languages:** C/C++, Python, Verilog
+- **Tools & Frameworks:** PyTorch, LaTeX, Jekyll
+- **Language:** Mandarin Chinese (native), English (fluent)
 
 
 ## Miscellaneous
