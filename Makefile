@@ -1,5 +1,5 @@
 JEKYLL = jekyll
-JEKYLL_FLAGS = --incremental
+JEKYLL_FLAGS =
 
 build:
 	$(JEKYLL) build $(JEKYLL_FLAGS)
