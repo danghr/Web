@@ -33,9 +33,9 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 
 ### Teaching
 
-| Time               | Course                                           | Role | Location     |
-|--------------------|--------------------------------------------------|------|--------------|
-| Fall, AY 2021-2022 | Operating Systems <small>(undergraduate)</small> | TA   | ShanghaiTech |
+| Time | Course | Role | Location |
+|------|--------|------|----------|
+| Fall, AY 2021-2022 | Operating Systems I | TA | ShanghaiTech |
 
 
 <!-- 
