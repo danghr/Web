@@ -31,12 +31,12 @@ sidebar:
   - name: "GitHub: danghr"
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/danghr
-  # - name: Curriculum Vitae (PDF)
-  #   icon: <i class="fa-solid fa-file-arrow-down"></i>
-  #   link: https://www.danghr.com/cven
-  # - name: 简历（PDF）
-  #   icon: <i class="fa-solid fa-file-arrow-down"></i>
-  #   link: https://www.danghr.com/cvzh
+  - name: Curriculum Vitae (PDF)
+    icon: <i class="fa-solid fa-file-arrow-down"></i>
+    link: https://danghr.com/cven
+  - name: 简历（PDF）
+    icon: <i class="fa-solid fa-file-arrow-down"></i>
+    link: https://danghr.com/cvzh
   - name: "Blog 博客 (Chinese only)"
     icon: <i class="fa-brands fa-wordpress"></i>
     link: https://blog.danghr.com
