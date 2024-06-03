@@ -16,6 +16,12 @@ favicon: true
 # Alternatively, insert SVG icons by using
 # <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="none"> SVG HERE </g></svg>
 sidebar:
+  - name: Curriculum Vitae (PDF)
+    icon: <i class="fa-solid fa-file-arrow-down"></i>
+    link: https://danghr.com/cven
+  - name: 简历（PDF）
+    icon: <i class="fa-solid fa-file-arrow-down"></i>
+    link: https://danghr.com/cvzh
   - name: "ORCID: 0000-0003-0750-5223"
     icon: <i class="fa-brands fa-orcid"></i>
     link: https://orcid.org/0000-0003-0750-5223
@@ -31,15 +37,9 @@ sidebar:
   - name: "GitHub: danghr"
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/danghr
-  - name: Curriculum Vitae (PDF)
-    icon: <i class="fa-solid fa-file-arrow-down"></i>
-    link: https://danghr.com/cven
-  - name: 简历（PDF）
-    icon: <i class="fa-solid fa-file-arrow-down"></i>
-    link: https://danghr.com/cvzh
-  - name: "Blog 博客 (Chinese only)"
-    icon: <i class="fa-brands fa-wordpress"></i>
-    link: https://blog.danghr.com
+  # - name: "Blog 博客 (Chinese only)"
+  #   icon: <i class="fa-brands fa-wordpress"></i>
+  #   link: https://blog.danghr.com
   # - name: "Toolbox 小工具"
   #   icon: <i class="fa-solid fa-toolbox"></i>
   #   link: https://tools.danghr.com
