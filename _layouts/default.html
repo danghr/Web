@@ -14,6 +14,7 @@
     <title>{% if page.title %}{{ page.title }}&nbsp;|&nbsp;{% endif %}{% if site.shown_title %}{{ site.shown_title }}{% else %}{{ site.title }}{% endif %}</title>
 
 {% seo %}
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
