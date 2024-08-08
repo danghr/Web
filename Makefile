@@ -1,4 +1,4 @@
-JEKYLL = jekyll
+JEKYLL = bundle exec jekyll
 JEKYLL_FLAGS =
 
 build:
