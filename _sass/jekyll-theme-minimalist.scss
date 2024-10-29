@@ -1,5 +1,5 @@
-@import "rouge-github";
-@import "colors";
+@use "rouge-github";
+@use "colors";
 
 body {
   background-color: var(--clr-bg);
