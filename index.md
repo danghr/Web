@@ -2,9 +2,11 @@
 layout: default
 ---
 
-I'm currently an M.Eng. student of [the High-throughput Computer Research Center (HTCRC)](http://english.ict.cas.cn/rese/divi/cs/202302/t20230209_326889.html), [ICT, CAS](http://english.ict.cas.cn), supervised by [Prof. Dongrui Fan](https://people.ucas.ac.cn/~fandongrui?language=en) and working closely with [Assoc. Prof. Mingyu Yan](https://mingyuyan-ict.github.io/MingyuYan-ICT/) in GIMLab on high-throughput GNN systems.
+I am currently an M.Eng. student at the [High-throughput Computer Research Center (HTCRC)](http://english.ict.cas.cn/rese/divi/cs/202302/t20230209_326889.html), part of the [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://english.ict.cas.cn), and the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn). I am supervised by [Prof. Dongrui Fan](https://people.ucas.ac.cn/~fandongrui?language=en) and am currently working in the GIMLab, directed by [Assoc. Prof. Mingyu Yan](https://mingyuyan-ict.github.io/MingyuYan-ICT/), focusing on high-throughput graph neural network (GNN) inference systems.
 
-I received my B.Eng. degree in Computer Science and Technology from [SIST](https://sist.shanghaitech.edu.cn/sist_en/), [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/), where I worked in [Toast Lab](https://toast-lab.sist.shanghaitech.edu.cn) with [Assist. Prof. Chundong Wang](https://chundong.wang) on co-optimization of NoSQL database and file system. Prior to that I had some experience in [Attitude Research Lab](https://arlab.sem.shanghaitech.edu.cn/index_en.html) of [SEM](https://sem.shanghaitech.edu.cn/sem_en/), [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/) with [Assoc. Prof. Lifeng Yang](https://sem.shanghaitech.edu.cn/sem_en/2022/0525/c9766a577111/page.htm) about ethics in information technology.
+I obtained my B.Eng. degree in Computer Science and Technology from the [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/). There, I worked in [Toast Lab](https://toast-lab.sist.shanghaitech.edu.cn) with [Assist. Prof. Chundong Wang](https://chundong.wang) on co-optimization of NoSQL databases and file systems. Before this, I gained some experience in the [Attitude Research Lab](https://arlab.sem.shanghaitech.edu.cn/index_en.html) of the [School of Entrepreneurship and Management (SEM)](https://sem.shanghaitech.edu.cn/sem_en/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), working with [Assoc. Prof. Lifeng Yang](https://sem.shanghaitech.edu.cn/sem_en/2022/0525/c9766a577111/page.htm) on ethics in information technology.
+
+My research interests broadly encompass computer systems and architecture. In addition to my work on GNN inference systems, I am currently involved in the ["One Student One Chip" (一生一芯)](https://ysyx.oscc.cc/en/) project, exploring the implementation of a RISC-V CPU with various test and optimization techniques. I also have some background in operating systems, having completed the [Pintos](https://www.scs.stanford.edu/10wi-cs140/pintos/pintos_1.html) project as part of the Operating Systems I course at ShanghaiTech, where I later served as a TA during the following academic year.
 
 
 ## News
@@ -20,7 +22,7 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 
 | Time | School |
 |---|---|
-| 2022-09 - Present | Institute of Computing Technology, Chinese Academy of Sciences <br><small>Also a student of University of Chinese Academy of Sciences, where the degree is to be conferred.</small> |
+| 2022-09 - Present | University of Chinese Academy of Sciences <br> Institute of Computing Technology, Chinese Academy of Sciences |
 | 2018-09 - 2022-06 | ShanghaiTech University |
 
 
@@ -31,6 +33,16 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 [[Full Publication List]](/publications)
 
 
+### Projects
+
+- **[The "One Student One Chip" (一生一芯) Project](https://ysyx.oscc.cc/en/)**
+  - **Software:** Implemented NEMU, a RISC-V emulator for teaching purposes, supporting RV32IM instructions up to now.
+  - **Hardware:** Currently developing a single-cycle RISC-V CPU using Verilog.
+  - Student ID: ysyx_24070014 [[Learning Record]](https://www.danghr.com/ysyx/record) [[Code]](https://www.danghr.com/ysyx/code)
+
+- **[Pintos](https://www.scs.stanford.edu/10wi-cs140/pintos/pintos_1.html)** <small>(As the course project of Computer Systems I in ShanghaiTech)</small>
+  - Implemented a multi-threading kernel with scheduling \& thread management, user program \& system calls, virtual memory, and file system with buffer cache.
+
 ### Teaching
 
 | Time | Course | Role | Location |
@@ -38,13 +50,13 @@ I received my B.Eng. degree in Computer Science and Technology from [SIST](https
 | Fall, AY 2021-2022 | Operating Systems I | TA | ShanghaiTech |
 
 
-<!-- 
-### Awards
+### Academic Awards
 
-| Time    | Award                                                          | Awarded By   |
-|---------|----------------------------------------------------------------|--------------|
+| Time | Award | Awarded By |
+|------|-------|------------|
+| 2024-05 | Outstanding Student | UCAS |
 | 2022-06 | Outstanding Thesis <small>(for undergraduate FYP)</small> | SIST, ShanghaiTech |
- -->
+
 
 
 ## Miscellaneous

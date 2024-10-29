@@ -4,7 +4,7 @@ title: Full Publication List
 ---
 
 ### As a Major Contributor
-- <u>Haoran Dang</u>, Meng Wu, Mingyu Yan, Xiaochun Ye, and Dongrui Fan, "**GDL-GNN: Applying GPU Dataloading of Large Datasets for Graph Neural Network Inference**", accepted by *International European Conference on Parallel and Distributed Computing (Euro-Par)*, 2024. DOI: [10.1007/978-3-031-69766-1_24](https://doi.org/10.1007/978-3-031-69766-1_24)
+- <u>Haoran Dang</u>, Meng Wu, Mingyu Yan, Xiaochun Ye, and Dongrui Fan, "**GDL-GNN: Applying GPU Dataloading of Large Datasets for Graph Neural Network Inference**", accepted by *International European Conference on Parallel and Distributed Computing (Euro-Par)*, 2024. DOI: [10.1007/978-3-031-69766-1_24](https://doi.org/10.1007/978-3-031-69766-1_24) [[Code]](https://github.com/danghr/GDL-GNN)
 - <u>Haoran Dang</u>, Chongnan Ye, Yanpeng Hu, and Chundong Wang, "**NobLSM: an LSM-tree with Non-blocking Writes for SSDs**," *ACM/IEEE Design Automation Conference (DAC)*, 2022. DOI: [10.1145/3489517.3530470](https://doi.org/10.1145/3489517.3530470). <small>(Open Access)</small>
 
 
