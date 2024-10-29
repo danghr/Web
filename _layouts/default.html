@@ -28,7 +28,9 @@
       <div class="sidebar">
         <header>
           {% if site.logo %}
-            <img class="img-circle" src="{{site.logo | relative_url}}" alt="Logo" width="205px">
+            <div style="width:205px;height:205px">
+              <img class="img-circle" src="{{site.logo | relative_url}}" alt="Logo" width="205px">
+            </div><br>
           {% endif %}
 
           {% if site.blank_title %}
