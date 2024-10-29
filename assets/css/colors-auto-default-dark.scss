@@ -1,9 +1,6 @@
----
----
-
 //this mode is like colors-auto but if the device does not support @media prefers-color-scheme it will deafault to dark mode
 
-@import "colors";
+@use "colors";
 
 :root {
     @include colors;

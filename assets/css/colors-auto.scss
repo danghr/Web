@@ -1,7 +1,4 @@
----
----
-
-@import "colors";
+@use "colors";
 
 :root {
     @include colors;
