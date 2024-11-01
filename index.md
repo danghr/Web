@@ -37,6 +37,9 @@ My research interests broadly encompass computer systems and architecture. In ad
 
 - **[The "One Student One Chip" (一生一芯) Project](https://ysyx.oscc.cc/en/)**
   - **Software:** Implemented NEMU, a RISC-V emulator for teaching purposes, supporting RV32IM instructions up to now.
+    - Support execution of RV32IM instructions.
+    - Implement some of `libc` functions: `str_` and `mem_` functions in `string.c`, and `sprintf` with `%d`, `%u` and `%s`.
+    - Use Spike as a reference source for differential testing, comparing register status after execution of every instruction.
   - **Hardware:** Currently developing a single-cycle RISC-V CPU using Verilog.
   - Student ID: ysyx_24070014 [[Learning Record]](https://www.danghr.com/ysyx/record) [[Code]](https://www.danghr.com/ysyx/code)
 
