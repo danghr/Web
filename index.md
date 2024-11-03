@@ -35,7 +35,7 @@ My research interests broadly encompass computer systems and architecture. In ad
 
 ### Projects
 
-- **[The "One Student One Chip" (一生一芯) Project](https://ysyx.oscc.cc/en/)**<br>Student ID: ysyx_24070014 [[Learning Record (<small>Chinese</small>)]](https://www.danghr.com/ysyx/record) [[Code]](https://www.danghr.com/ysyx/code)
+- **[The "One Student One Chip" (一生一芯) Project](https://ysyx.oscc.cc/en/)**<br>Student ID: ysyx_24070014 [[Learning Record]](https://www.danghr.com/ysyx/record) [[Code]](https://www.danghr.com/ysyx/code)
   - **Software:** Implemented NEMU, a RISC-V emulator for teaching purposes, supporting RV32IM instructions up to now.
     - Support execution of RV32IM instructions.
     - Implement some library functions: `str_` and `mem_` functions in `string.c`, and `sprintf` with `%d`, `%u` and `%s`.
