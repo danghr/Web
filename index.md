@@ -43,7 +43,7 @@ My research interests broadly encompass computer systems and architecture. In ad
   - **Hardware:** Currently developing a single-cycle RISC-V CPU using Verilog.
 
 - **[Pintos](https://www.scs.stanford.edu/10wi-cs140/pintos/pintos_1.html)** <small>(As the course project of Computer Systems I in ShanghaiTech)</small>
-  - Implemented a multi-threading kernel with scheduling \& thread management, user program \& system calls, virtual memory, and file system with buffer cache.
+  - Implemented a multi-threading kernel with scheduling & thread management, user program & system calls, virtual memory, and file system with buffer cache.
 
 ### Teaching
 
