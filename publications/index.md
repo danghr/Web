@@ -10,4 +10,4 @@ title: Full Publication List
 
 ### Participated
 
-- Duo Wang, Mingyu Yan, Yihan Teng, Dengke Han, <u>Haoran Dang</u>, Xiaochun Ye, Dongrui Fan, "**A Transfer Learning Framework for High-accurate Cross-workload Design Space Exploration of CPU**," *International Conference on Computer Aided Design (ICCAD)*, 2023. DOI: [10.1109/ICCAD57390.2023.10323840](https://doi.org/10.1109/ICCAD57390.2023.10323840) <small>(Rank: [CCF-B](https://www.ccf.org.cn/Academic_Evaluation/By_category/), [CORE-A](https://portal.core.edu.au/conf-ranks/783/))</small>
+- Duo Wang, Mingyu Yan, Yihan Teng, Dengke Han, <u>Haoran Dang</u>, Xiaochun Ye, Dongrui Fan, "**A Transfer Learning Framework for High-accurate Cross-workload Design Space Exploration of CPU**," *International Conference on Computer Aided Design (ICCAD)*, 2023. DOI: [10.1109/ICCAD57390.2023.10323840](https://doi.org/10.1109/ICCAD57390.2023.10323840)
