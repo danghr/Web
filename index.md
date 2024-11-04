@@ -14,6 +14,7 @@ My research interests broadly encompass computer systems and architecture. In ad
 {%- include news_abstract.md -%}
 <br>
 [[More]](/news)
+<p></p> <!-- Compensate the empty space after the list -->
 
 
 ## About Me
@@ -31,19 +32,21 @@ My research interests broadly encompass computer systems and architecture. In ad
 {%- include publications_abstract.md -%}
 <br>
 [[Full Publication List]](/publications)
+<p></p> <!-- Compensate the empty space after the list -->
 
 
 ### Projects
 
-- **[The "One Student One Chip" (一生一芯) Project](https://ysyx.oscc.cc/en/)**<br>Student ID: ysyx_24070014 &ensp; [[Learning Record]](https://www.danghr.com/ysyx/record) &ensp; [[Code]](https://www.danghr.com/ysyx/code)
+- **[The "One Student One Chip" (一生一芯) Project](https://ysyx.oscc.cc/en/)** <br> Student ID: ysyx_24070014 &ensp; [[Learning Record]](https://www.danghr.com/ysyx/record) &ensp; [[Code]](https://www.danghr.com/ysyx/code)
   - **Software:** Implemented NEMU, a RISC-V emulator for teaching purposes, supporting RV32IM instructions up to now.
     - Support execution of RV32IM instructions.
     - Implement some library functions: `str_` and `mem_` functions in `string.c`, and `sprintf` with `%d`, `%u` and `%s`.
     - Use Spike as a reference source for differential testing, comparing register status after execution of every instruction.
   - **Hardware:** Currently developing a single-cycle RISC-V CPU using Verilog.
-
 - **[Pintos](https://www.scs.stanford.edu/10wi-cs140/pintos/pintos_1.html)** <small>(As the course project of Computer Systems I in ShanghaiTech)</small>
   - Implemented a multi-threading kernel with scheduling & thread management, user program & system calls, virtual memory, and file system with buffer cache.
+<p></p> <!-- Compensate the empty space after the list -->
+
 
 ### Teaching
 
