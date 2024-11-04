@@ -156,4 +156,4 @@ vendor/
 */.user.ini
 
 # jekyll-git_metadata
-.git_metadata/
+.git-metadata/*.json
