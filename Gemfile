@@ -18,3 +18,6 @@ gem "webrick"
 # adding the following gems to support removal of "github-pages" dependency
 gem "jemoji"
 gem "kramdown-parser-gfm"
+
+# Add revision information to control the versions of CSS and JS files
+gem 'jekyll-git_metadata'

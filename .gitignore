@@ -154,3 +154,6 @@ vendor/
 */.htaccess
 .user.ini
 */.user.ini
+
+# jekyll-git_metadata
+.git_metadata/
