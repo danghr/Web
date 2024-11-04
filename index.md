@@ -52,7 +52,7 @@ My research interests broadly encompass computer systems and architecture. In ad
 
 | Time | Course | Role | Location |
 |------|--------|------|----------|
-| Fall, AY 2021-2022 | Operating Systems I | TA | ShanghaiTech |
+| Fall, AY 2021-2022 | Operating System I | TA | ShanghaiTech |
 
 
 ### Academic Awards
