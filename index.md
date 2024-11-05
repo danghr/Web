@@ -62,7 +62,7 @@ My research interests broadly encompass computer systems and architecture. In ad
     - Implement some library functions: `str_` and `mem_` functions in `string.c`, and `sprintf` with `%d`, `%u` and `%s`.
     - Use Spike as a reference source for differential testing, comparing register status after execution of every instruction.
   - **Hardware:** Currently developing a single-cycle RISC-V CPU using Verilog.
-- **[Pintos](https://www.scs.stanford.edu/10wi-cs140/pintos/pintos_1.html)** <small>(As the course project of Computer Systems I in ShanghaiTech)</small>
+- **[Pintos](https://www.scs.stanford.edu/10wi-cs140/pintos/pintos_1.html)** <small>(As the course project of Operating Systems I in ShanghaiTech)</small>
   - Implemented a multi-threading kernel with scheduling & thread management, user program & system calls, virtual memory, and file system with buffer cache.
 <p></p> <!-- Compensate the empty space after the list -->
 
@@ -71,7 +71,7 @@ My research interests broadly encompass computer systems and architecture. In ad
 
 | Time | Course | Role | Location |
 |------|--------|------|----------|
-| Fall, AY 2021-2022 | Operating System I | TA | ShanghaiTech |
+| Fall, AY 2021-2022 | Operating Systems I | TA | ShanghaiTech |
 
 
 ### Academic Awards
