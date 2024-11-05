@@ -35,7 +35,26 @@ My research interests broadly encompass computer systems and architecture. In ad
 <p></p> <!-- Compensate the empty space after the list -->
 
 
-### Projects
+### Research Projects
+
+- **GDL-GNN: GPU Dataloading for GNN Inference** &ensp; [[Paper]](https://doi.org/10.1007/978-3-031-69766-1_24) &ensp; [[Code]](https://github.com/danghr/GDL-GNN)
+  - **Motivation:** Graph neural networks (GNNs) suffer from performance bottlenecks due to inefficient data transfer between host and device memory during inference.
+  - **Solution:**
+    - *Partition the large graph into subgraphs that can fit in GPU memory.* Include features of halo nodes (the neighbors outside the partition) to ensure all the data required for the inference of a subgraph is contained within the subgraph itself, avoiding memory access outside the GPU during inference.
+    - *Use hop-masks to avoid unnecessary computation and storage.* Compute only on the necessary nodes of each layer in the GNN model to reduce both memory and time consumption.
+    - *Hide load latency and optimize for multiple GPUs.* Overlap the inference of the current subgraph with the loading of the next one. Distribute subgraphs dynamically across GPUs to achieve natural load balancing.
+  - **Result:** Significantly reduces inference time while maintaining the accuracy of full-graph inference.
+- **NobLSM: LSM-tree with Non-blocking Writes** &ensp; [[Paper]](https://doi.org/10.1145/3489517.3530470)
+  - **Motivation:** NoSQL databases using log-structured merge (LSM) trees often experience performance bottlenecks during the compaction process, with a significant portion of the latency caused by blocking `sync` operations when generating new SSTable files.
+  - **Solution:**
+    - *Delay the deletion of old SSTables until the new SSTable is safely stored.* Use a `map` to track the relationship between old and new SSTables, keeping the old ones until the new ones are safely stored.
+    - *Utilize the periodic commit of the file-system journal.* Since the commit of a journal transaction containing the `inode` occurs after the data blocks are written on the disk, this commit ensures the safe storage of the file.
+    - Based on the above mechanisms, *safely remove the blocking `fsync`/`fdatasync` operations during the generation of SSTables in compactions*.
+  - **Result:** Outperforms state-of-the-art competitors while maintaining the same level of consistency.
+<p></p> <!-- Compensate the empty space after the list -->
+
+
+### Coursework Projects
 
 - **[The "One Student One Chip" (一生一芯) Project](https://ysyx.oscc.cc/en/)** <br> Student ID: ysyx_24070014 &ensp; [[Learning Record]](https://www.danghr.com/ysyx/record) &ensp; [[Code]](https://www.danghr.com/ysyx/code)
   - **Software:** Implemented NEMU, a RISC-V emulator for teaching purposes, supporting RV32IM instructions up to now.
@@ -59,9 +78,8 @@ My research interests broadly encompass computer systems and architecture. In ad
 
 | Time | Award | Awarded By |
 |------|-------|------------|
-| 2024-05 | Outstanding Student | UCAS |
+| 2024-05 | Outstanding Student (AY 2023-2024) | UCAS |
 | 2022-06 | Outstanding Thesis <small>(for undergraduate FYP)</small> | SIST, ShanghaiTech |
-
 
 
 ## Miscellaneous
