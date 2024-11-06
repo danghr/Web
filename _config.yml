@@ -12,6 +12,7 @@ plugins:
   - jemoji
   - jekyll-git_metadata
 favicon: true
+timezone: Asia/Shanghai
 
 # Search for FonwAwesome icons in https://fontawesome.com/icons
 # Alternatively, insert SVG icons by using
