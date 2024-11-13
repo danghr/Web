@@ -20,10 +20,10 @@ timezone: Asia/Shanghai
 sidebar:
   - name: Curriculum Vitae (PDF)
     icon: <i class="fa-solid fa-file-arrow-down"></i>
-    link: https://danghr.com/cven
+    link: https://download.danghr.com/CV/Haoran%20Dang.pdf
   - name: 简历（PDF）
     icon: <i class="fa-solid fa-file-arrow-down"></i>
-    link: https://danghr.com/cvzh
+    link: https://download.danghr.com/CV/党浩然.pdf
   - name: "ORCID: 0000-0003-0750-5223"
     icon: <i class="fa-brands fa-orcid"></i>
     link: https://orcid.org/0000-0003-0750-5223
