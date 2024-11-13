@@ -23,8 +23,8 @@ My research interests broadly encompass computer systems and architecture. In ad
 
 | Time | School |
 |---|---|
-| 2022-09 - Present | University of Chinese Academy of Sciences <br> Institute of Computing Technology, Chinese Academy of Sciences |
-| 2018-09 - 2022-06 | ShanghaiTech University |
+| 2022-09 - Present | University of Chinese Academy of Sciences <br> Institute of Computing Technology, Chinese Academy of Sciences <br> <small>[Transcript](https://download.danghr.com/transcript/master/transcript-m-en-20241024.pdf) [(GPA Conversion)](https://download.danghr.com/transcript/master/conversion-m-en.pdf) &emsp; [成绩单](https://download.danghr.com/transcript/bachelor/transcript-b-cn-esign-20220704.pdf)[（GPA算法）](https://jwb.ucas.ac.cn/index.php/zh/gzzd/kcsz/80-2021-06-10-03-03-19)</small> |
+| 2018-09 - 2022-06 | ShanghaiTech University <br> <small>[Transcript](https://download.danghr.com/transcript/bachelor/transcript-b-en-esign-20220704.pdf) &emsp; [成绩单](https://download.danghr.com/transcript/bachelor/transcript-b-cn-esign-20220704.pdf)</small> |
 
 
 ### Publications
