@@ -14,7 +14,7 @@ My name is pronounced as:
 |---|---|---|
 | **Chinese** | 党 | 浩然 |
 | **Pinyin** | Dǎng | Hàorán |
-| **IPA** | [tɑŋ] | [xɑʊʐɑn] |
+| **IPA** | [tɑŋ] | [xɑʊʐan] |
 
 
 ## News
