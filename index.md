@@ -8,6 +8,14 @@ I obtained my B.Eng. degree in Computer Science and Technology from the [School 
 
 My research interests broadly encompass computer systems and architecture. In addition to my work on GNN inference systems, I am currently involved in the ["One Student One Chip" (一生一芯)](https://ysyx.oscc.cc/en/) project, learning the implementation of a RISC-V CPU with various test and optimization techniques. I also have some background in operating systems, having completed the [Pintos](https://www.scs.stanford.edu/10wi-cs140/pintos/pintos_1.html) project as part of the Operating Systems I course at ShanghaiTech, where I later served as a TA during the following academic year.
 
+My name is pronounced as:
+
+| | Family Name | Given Name |
+|---|---|---|
+| **Chinese** | 党 | 浩然 |
+| **Pinyin** | Dǎng | Hàorán |
+| **IPA** | [tɑŋ] | [xɑʊʐɑn] |
+
 
 ## News
 
