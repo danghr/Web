@@ -84,7 +84,7 @@ My research interests broadly encompass computer systems and architecture. In ad
 
 ## Miscellaneous
 
-### Pronunciation of My name
+### Pronunciation of My Name
 
 | | Family Name | Given Name |
 |---|---|---|
